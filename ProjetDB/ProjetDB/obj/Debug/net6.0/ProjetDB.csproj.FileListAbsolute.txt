@@ -1,0 +1,6 @@
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.AssemblyInfo.cs
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\ProjetDB\obj\Debug\net6.0\ProjetDB.MvcApplicationPartsAssemblyInfo.cache

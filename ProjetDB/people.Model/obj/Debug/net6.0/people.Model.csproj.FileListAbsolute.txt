@@ -1,0 +1,5 @@
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\people.Model\obj\Debug\net6.0\people.Model.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\people.Model\obj\Debug\net6.0\people.Model.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\people.Model\obj\Debug\net6.0\people.Model.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\people.Model\obj\Debug\net6.0\people.Model.AssemblyInfo.cs
+Y:\Groups\Group_2\בסה  מיכל\dotnet\ProjetDB\people.Model\obj\Debug\net6.0\people.Model.csproj.CoreCompileInputs.cache
